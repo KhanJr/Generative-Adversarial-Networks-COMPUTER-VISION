@@ -142,3 +142,6 @@ This model generate images and Discrement them on the basis of real images, give
 				
 ************************************************************************************************************************************************************************************
 The results are really excited : 
+
+This is the real image - ![First Image](https://github.com/KhanJr/Generative-Adversarial-Networks-COMPUTER-VISION-/images/fake_samples_epoch_000.png?raw=true)
+
