@@ -1,5 +1,11 @@
 class helpyou:
 	"""
+	PreRequisite : Knowlege of Python (Basic[class, modules, function]), Pytorch, Neural Network, Activation Function.
+	
+	Installation : pytorch(CUDA 10.2), torchvision, pillow, mpi4py, numpy.
+	
+	To Train and Get Generated Images Run design.py
+	
 
 	************************************************************************************************************************************************************************************
 
