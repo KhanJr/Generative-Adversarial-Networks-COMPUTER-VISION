@@ -143,5 +143,27 @@ This model generate images and Discrement them on the basis of real images, give
 ************************************************************************************************************************************************************************************
 The results are really excited : 
 
-This is the real image - ![First Image](https://github.com/KhanJr/Generative-Adversarial-Networks-COMPUTER-VISION-/images/fake_samples_epoch_000.png?raw=true)
+These are the generated image - 
 
+#### Epoch 0
+- <img src = "https://github.com/KhanJr/Generative-Adversarial-Networks-COMPUTER-VISION-/blob/master/Images/fake_samples_epoch_000.png" width="325">
+
+#### Epoch 1
+- <img src = "https://github.com/KhanJr/Generative-Adversarial-Networks-COMPUTER-VISION-/blob/master/Images/fake_samples_epoch_001.png" width="325">
+
+#### Epoch 10
+- <img src = "https://github.com/KhanJr/Generative-Adversarial-Networks-COMPUTER-VISION-/blob/master/Images/fake_samples_epoch_010.png" width="325">
+
+#### Epoch 20
+- <img src = "https://github.com/KhanJr/Generative-Adversarial-Networks-COMPUTER-VISION-/blob/master/Images/fake_samples_epoch_020.png" width="325">
+
+#### Epoch 24
+- <img src = "https://github.com/KhanJr/Generative-Adversarial-Networks-COMPUTER-VISION-/blob/master/Images/fake_samples_epoch_024.png" width="325">
+
+#### Real Image
+
+- <img src = "https://github.com/KhanJr/Generative-Adversarial-Networks-COMPUTER-VISION-/blob/master/Images/real_samples.png" width = "325">
+
+#### Real Image(LEFT) VS Generated Image(RIGHT)
+
+<img src="https://github.com/KhanJr/Generative-Adversarial-Networks-COMPUTER-VISION-/blob/master/Images/real_samples.png" width="325"/>	..... <img src="https://github.com/KhanJr/Generative-Adversarial-Networks-COMPUTER-VISION-/blob/master/Images/fake_samples_epoch_024.png" width="325"/> 
