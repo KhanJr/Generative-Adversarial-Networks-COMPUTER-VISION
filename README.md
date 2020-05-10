@@ -2,7 +2,7 @@
 This model generate images and Discrement them on the basis of real images, gives surprising results, can apply arithmatic operations on generated images.
 
 
-### To run the file just run the design.py
+### To run the file just run design.py
 ##### NOTE : You can tweak the parameter of training dataset, kernel, and filter functions (RELU can be replaced with LSTM for text generation Process)
 
 ##### Installation
