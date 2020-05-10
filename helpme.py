@@ -11,17 +11,18 @@ class helpyou:
 
 	
 	PAPER :
-
-		MD-GAN	:
-			Multi-Discriminator GenerativeAdversarial Networks for Distributed Datasets
-
-		AUTHORS	:
-			[ Corentin HardyTechnicolor,InriaRennes, FranceErwan Le MerrerInriaRennes, FranceBruno SericolaInriaRennes, France ]
-
-		LINK	:
-			https://arxiv.org/pdf/1811.03850v2.pdf
+		GAN, MD-GAN	:
+			Generative Adversarial Network, Multi-Discriminator GenerativeAdversarial Networks for Distributed Datasets
 
 
+		AUTHORS		:
+			PAPER I - [ Ian J. Goodfellow,  Jean Pouget-Abadie∗, Mehdi Mirza, Bing Xu, David Warde-Farley,Sherjil Ozair†, Aaron      Courville, Yoshua Bengio‡ ]
+  			PAPER II - [ Corentin Hardy, Erwan Le Merrer, Bruno Sericola ]
+
+
+		LINK		:
+			PAPER I  :  https://arxiv.org/pdf/1406.2661.pdf
+        		PAPER II : https://arxiv.org/pdf/1811.03850v2.pdf
 	************************************************************************************************************************************************************************************
 
 
