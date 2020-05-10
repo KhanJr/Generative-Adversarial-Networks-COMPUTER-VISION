@@ -5,12 +5,19 @@
 This model generate images and Discrement them on the basis of real images, gives surprising results, can apply arithmatic operations on generated images.
 
 
-### To run the file just run design.py
+
 ##### NOTE : You can tweak the parameter of training dataset, kernel, and filter functions (RELU can be replaced with LSTM for text generation Process)
 
 ##### Installation
 1. install pillow, numpy and mpi4py
 2. install cuda (10.2) version of pytrorch and torchvision
+
+##### PreRequisite 
+1. Knowlege of Python (Basic[class, modules, function])
+2. Pytorch, Neural Network
+3. Activation Function.
+
+##### To Train and Get Generated Images Run design.py
 
 #### Cool you are good to go here is some Definition to help you:
 
