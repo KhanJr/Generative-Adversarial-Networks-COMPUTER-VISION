@@ -1,4 +1,4 @@
-# Generative-Adversarial[Networks-COMPUTER-VISION]
+# Generative-Adversarial Networks [COMPUTER-VISION]
 
 ### For documentation please run helpme.py 
 
