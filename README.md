@@ -139,3 +139,6 @@ This model generate images and Discrement them on the basis of real images, give
 				40:		end for
 				41:	end for
 				42:end procedure
+				
+************************************************************************************************************************************************************************************
+The results are really excited : 
